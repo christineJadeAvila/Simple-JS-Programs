@@ -4,7 +4,7 @@ let msg = document.getElementById("msg");
 let posts = document.getElementById("posts");
 
 form.addEventListener('submit', (e) => {
-    e.preventDefault();
+    e.preventDefault(); 
     console.log("button clicked!");
 
     formValidation();
