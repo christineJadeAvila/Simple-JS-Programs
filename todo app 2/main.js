@@ -30,7 +30,7 @@ let formValidation = () => {
   }
 };
 
-let data = [];
+let data = [ ];
 
 let acceptData = () => {
   data.push({
